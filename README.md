@@ -12,7 +12,7 @@ Response body: {“similarity score”: 0.2 }
 A brief description about the project: 
 
 • Used distil Roberta model from sentence transformers to create the embeddings of textual 
-data.
+data. (Embedding size - 768)
 
 • This model is very suitable for semantic analysis
 
