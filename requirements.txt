@@ -1,0 +1,7 @@
+flask
+joblib
+numpy
+pandas
+sentence_transformers
+sklearn.preprocessing
+scipy.spatial
