@@ -21,8 +21,5 @@ two pairs of text vectors.
 
 Some examples of how this API works : 
 
-
-![Screenshot 2024-04-17 231827](https://github.com/saneh12/dataNeuronTask/assets/142069452/ade3ae8e-350f-43fd-9f6a-40c4363a70ca)
-
 ![Screenshot 2024-04-17 231901](https://github.com/saneh12/dataNeuronTask/assets/142069452/68a260a2-be7b-4303-aed2-70743ed4e624)
 
