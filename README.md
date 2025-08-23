@@ -1,4 +1,4 @@
-# Semantic Textual Similarity between two texts
+# Semantic Textual Similarity between two texts using Robarta Model
 This API will take two texts as input and give the degree to which two sentences are 
 semantically equivalent to each other.
 
