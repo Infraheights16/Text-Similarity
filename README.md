@@ -21,5 +21,4 @@ two pairs of text vectors.
 
 Some examples of how this API works : 
 
-![Screenshot 2024-04-17 231901](https://github.com/saneh12/dataNeuronTask/assets/142069452/68a260a2-be7b-4303-aed2-70743ed4e624)
-
+![Screenshot 2024-04-17 231901](./Robarta%20img.png)
